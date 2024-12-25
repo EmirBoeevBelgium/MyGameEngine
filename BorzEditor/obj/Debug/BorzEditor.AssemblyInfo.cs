@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BorzEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e947e6846b8436e91e9e79e3e0b2c78913c6fb88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f68053ee1c5b1b9f7b072b80d09b6fc6e5e1a05")]
 [assembly: System.Reflection.AssemblyProductAttribute("BorzEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BorzEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

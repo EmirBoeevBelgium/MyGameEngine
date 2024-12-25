@@ -1,8 +1,3 @@
-C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\BorzEditor.exe
-C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\BorzEditor.deps.json
-C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\BorzEditor.runtimeconfig.json
-C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\BorzEditor.dll
-C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\BorzEditor.pdb
 C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\MainWindow.g.cs
 C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\App.g.cs
 C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\BorzEditor_MarkupCompile.cache
@@ -19,3 +14,8 @@ C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\refint\BorzEditor.d
 C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\BorzEditor.pdb
 C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\BorzEditor.genruntimeconfig.cache
 C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\ref\BorzEditor.dll
+C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.exe
+C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.deps.json
+C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.runtimeconfig.json
+C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.dll
+C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.pdb
