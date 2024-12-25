@@ -23,3 +23,4 @@ C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\net6.0-windows\BorzEdito
 C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\net6.0-windows\BorzEditor.runtimeconfig.json
 C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\net6.0-windows\BorzEditor.dll
 C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\Debug\net6.0-windows\BorzEditor.pdb
+C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\net6.0-windows\BorzEditor.sourcelink.json
