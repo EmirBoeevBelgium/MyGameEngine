@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(513,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  pch.cpp
+  MyGameEngine.cpp
+  MyGameEngine.vcxproj -> C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\MyGameEngine.lib
