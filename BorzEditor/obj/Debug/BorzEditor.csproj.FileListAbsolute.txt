@@ -19,3 +19,5 @@ C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.deps.json
 C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.runtimeconfig.json
 C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.dll
 C:\Users\Emir\Desktop\MyGameEngine\Borz\x64\Debug\BorzEditor.pdb
+C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\GameProject\ProjectBrowserDialog.g.cs
+C:\Users\Emir\Desktop\MyGameEngine\Borz\BorzEditor\obj\Debug\GameProject\ProjectBrowserDialog.baml
